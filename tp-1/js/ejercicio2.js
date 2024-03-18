@@ -1,0 +1,1 @@
+document.write("Hello Word!! uwu <br>"); // ejercicio 2
