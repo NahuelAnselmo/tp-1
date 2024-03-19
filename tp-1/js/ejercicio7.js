@@ -1,8 +1,8 @@
-const num1 = parseInt(prompt("Ingrese el primer número:"));
-const num2 = parseInt(prompt("Ingrese el segundo número:"));
-const num3 = parseInt(prompt("Ingrese el tercero número:"));
+let num1 = parseInt(prompt("Ingrese el primer número:"));
+let num2 = parseInt(prompt("Ingrese el segundo número:"));
+let num3 = parseInt(prompt("Ingrese el tercero número:"));
 
-const mayor = 0;
+let mayor;
 
 if (num1 >= num2 && num1 >= num3) {
     mayor = num1;
